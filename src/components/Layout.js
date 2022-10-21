@@ -9,7 +9,6 @@ const Layout = () => {
       <header className="app-title">
         <h2>Todo Application </h2>
       </header>
-
       <Outlet />
     </div>
   )
